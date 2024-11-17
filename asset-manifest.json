@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-ts-mid/static/css/main.a2eacfde.css",
+    "main.js": "/react-ts-mid/static/js/main.be0d2e94.js",
+    "static/media/Duck.png": "/react-ts-mid/static/media/Duck.1f34ef4ce47340ed5e15.png",
+    "static/media/gold.jpg": "/react-ts-mid/static/media/gold.e3c7be5862d47811e660.jpg",
+    "static/media/cutephoto.jpg": "/react-ts-mid/static/media/cutephoto.a8d86fef5fa5d40474f9.jpg",
+    "static/media/redhat.jpg": "/react-ts-mid/static/media/redhat.787c8260d596e81c8ca6.jpg",
+    "static/media/pig.jpg": "/react-ts-mid/static/media/pig.1d61af7a13eb7b2cc266.jpg",
+    "static/media/princess.jpg": "/react-ts-mid/static/media/princess.db2ab4467bbe7c06e8a6.jpg",
+    "static/media/man.jpg": "/react-ts-mid/static/media/man.1816cba0eef101dbb650.jpg",
+    "static/media/drinkwater.jpg": "/react-ts-mid/static/media/drinkwater.ecb3d9a70951c5ddfedf.jpg",
+    "static/media/tiger.jpg": "/react-ts-mid/static/media/tiger.dfe9aa0abeb899497b97.jpg",
+    "static/media/race.jpg": "/react-ts-mid/static/media/race.d861ac332fdaca7e84c3.jpg",
+    "index.html": "/react-ts-mid/index.html",
+    "main.a2eacfde.css.map": "/react-ts-mid/static/css/main.a2eacfde.css.map",
+    "main.be0d2e94.js.map": "/react-ts-mid/static/js/main.be0d2e94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2eacfde.css",
+    "static/js/main.be0d2e94.js"
+  ]
+}
